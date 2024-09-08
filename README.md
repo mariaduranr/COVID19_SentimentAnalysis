@@ -24,7 +24,8 @@ This repository contains a comprehensive analysis of the emotional and mental he
 ### 3. Custom GPT Assitant
    - A GPT-based assistant was created to perform sentiment analysis on COVID-19 tweets.
    - The assistant uses machine learning techniques to classify tweets into different emotions such as "peaceful," "stressed," "frustrated," and "vulnerable."
-   - **[Link to GPT Assitant for use]**: (https://chatgpt.com/g/g-BYJwsjj6G-sentiment-analyst)
+   - **Link to GPT Assitant for use**: (https://chatgpt.com/g/g-BYJwsjj6G-sentiment-analyst)
+   - For more information on how to customize your own GPT go to https://help.openai.com/en/articles/8554397-creating-a-gpt
 
 ### 4. Video (`gpt_overview.mp4`)
    - A video overview of how the GPT model was developed and integrated into the analysis.
