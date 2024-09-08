@@ -32,12 +32,12 @@ This repository contains a comprehensive analysis of the emotional and mental he
 
 ## Datasets
 ### Main Dataset (Survey Data) for Data Analysis
-- **Source**: Harvard Dataverse
+- **Source**: Harvard Dataverse: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/EWRL9K&version=1.0
 - **Content**: Survey responses from residents of New York and Milan regarding their perceptions and emotions during the pandemic.
 - **Data Cleaning**: After cleaning, the dataset was reduced from 123 columns to 93 relevant columns for analysis.
 
 ### Secondary Dataset (COVID-19 Tweets) to perform sentiment Analysis using python libraries and a custom GPT assistant
-- **Source**: Kaggle
+- **Source**: Kaggle: https://www.kaggle.com/datasets/gpreda/covid19-tweets/data
 - **Content**: Tweets related to the COVID-19 pandemic were collected using the Twitter API. Tweets mentioning keywords like "COVID-19" and "coronavirus" were analyzed.
 - **Data Cleaning**: 37% of the data was excluded during cleaning to focus on tweets with meaningful sentiment information.
 
